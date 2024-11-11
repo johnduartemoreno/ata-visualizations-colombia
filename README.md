@@ -11,4 +11,4 @@ Puedes clonar el repositorio o abrir el notebook directamente en [Google Colab](
 
 ## Instalación
 - Requiere Python 3.x y Jupyter Notebook.
-- Para instalar dependencias: `pip install -r requirements.txt` (añadir si es necesario).
+
