@@ -1,0 +1,8 @@
+# Ignorar todos los archivos por defecto
+*
+
+# Excepciones: estos archivos no serán ignorados
+!README.md
+!transformations.ipynb
+!owid-covid-data.csv
+!/.gitignore
